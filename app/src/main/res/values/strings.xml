@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Silent App</string>
+    <string name="buttonMain">Maps</string>
+    <string name="need_location_permission_message">You need to enable location permissions first</string>
+    <string name="clear_all_data"> Elimina tutti i luoghi</string>
+    <string name="list_name"> Luoghi </string>
+    <string name= "listEv_name">Eventi </string>
+    <string name="switch_datetime_picker_name">Switch DateTime Picker</string>
+    <string name="open_datetime_dialog">Open DateTime Dialog</string>
+    <string name="open_datetime_dialog_with_neutral_button">Open DateTime Dialog with Neutral Button</string>
+    <string name="clean">Clean</string>
+    <string name="event_hint">Evento</string>
+    <string name="start_hint">Data Inizio</string>
+    <string name="end_hint">Data Fine</string>
+    <string name="ok">Ok</string>
+    <string name="search_data">Cerca</string>
+    <string name="insert_event">Inserisci Evento</string>
+</resources>
